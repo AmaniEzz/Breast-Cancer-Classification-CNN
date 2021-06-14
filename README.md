@@ -1,2 +1,2 @@
-# Breast-Cancer-Classification-CNN
-Breast Cancer Classification using CNN
+# Breast-Cancer-Classification-MobileNet
+Breast Cancer Classification using MobileNet
